@@ -1,0 +1,10 @@
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\bin\Debug\TP1.dacpac
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\bin\Debug\Database1.dll
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\bin\Debug\Database1.pdb
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\obj\Debug\TP1.sqlproj.AssemblyReference.cache
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\obj\Debug\Model.xml
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\obj\Debug\refactor.xml
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\obj\Debug\postdeploy.sql
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\obj\Debug\predeploy.sql
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\obj\Debug\Database1.dll
+C:\Users\Dorra Sioud\source\repos\Database1\Database1\obj\Debug\Database1.pdb
